@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" source="aeterna_tiles.tsx"/>
+ <layer name="borders" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJADAMBDGD9985fbpAiiskeDzAgXdm1lKjQY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY+W3z32urzRo8W/atGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjZS23A8P8BLE=
+  </data>
+ </layer>
+ <layer name="grass" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEOwyAQAEHC/x+dJoVl5WI4A0nEjETj4gpWBkoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgx+O0om+sEe27Ht+hx3jn8yW7emYSG92iZS6xGS2uZhM77lN9rRk9jrOJtfaIvmdmE2v9D2p536t1th5t3B+/ZVYP76ucnrMp2tuR/9Tusj2uZuiRc+ecmnHn7G5Fj5432e5m9agl90YmT4/xsv9H6zmlR5/Re+0+v2d1Cz0+m3le6cE/ewLvzAH+
+  </data>
+ </layer>
+ <layer name="bridge" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAIA6BO/n+yaycPMJCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDdVAAAAAAAAABuC60eABM=
+  </data>
+ </layer>
+ <layer name="water" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKwCAUBUEb73/lNGlCRFIE3GIG3gVcPjgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEDbvMd5WnRo0aJFix4tesDbXIwzVi00OUePFj1a9GjRo0WLFm/f4BZadGjRo0WP/+3+ql8GAMDTBWfwAYc=
+  </data>
+ </layer>
+ <layer name="water_fall1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7A9+LeMjAXSKmgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf0w7AAAAAAAAAACctz7PAAY=
+  </data>
+ </layer>
+ <layer name="water_fall2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7A9+LeMhyWEp1XQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODGfAcAAAAAAAAAoLA2/wAG
+  </data>
+ </layer>
+</map>
